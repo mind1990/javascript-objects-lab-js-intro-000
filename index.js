@@ -1,4 +1,4 @@
-var receiptes = new Object();
+var receipes = new Object(){ key: 'value'})
 
 function updateObjectWithKeyAndValue(object, key, value) {
   object = { [key]: value }
